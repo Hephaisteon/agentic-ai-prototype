@@ -14,7 +14,8 @@ It explores
 - Tracing
 - Multi-agent architecture
 
-##Agent architecture:
+
+## Agent architecture:
 
 <img width="487" height="677" alt="architecture" src="https://github.com/user-attachments/assets/20de7b4d-c3e5-4788-97db-0f88f53e7e08" />
 
