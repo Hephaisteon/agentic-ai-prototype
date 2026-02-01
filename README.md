@@ -29,7 +29,7 @@ pip install -r requirements.txt
 python main.py
 
 
-## Regarding Semantic PDF Search
+## Regarding local_doc_search Node
 This project supports optional local document retrieval using FAISS vectorstores built from PDF documentation.
 The vectorstores are not included in this repository to avoid redistributing third-party or proprietary materials.
 The agent is designed to also operate without local vectorstores:
