@@ -1,1 +1,8 @@
-
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+vectorstores/
+outputs/
+.DS_Store
