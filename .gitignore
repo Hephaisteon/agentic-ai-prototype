@@ -1,8 +1,15 @@
+# Python cache / virtual env
 __pycache__/
 *.pyc
-venv/
 .venv/
+venv/
+
+# Environment variables / secrets
 .env
+
+# Generated artifacts
 vectorstores/
 outputs/
+
+# OS
 .DS_Store
