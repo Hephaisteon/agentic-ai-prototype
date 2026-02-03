@@ -35,7 +35,7 @@ Graph Visual:
 ## Motivation & Real-World Context
 
 In large organizations, users often face challenges of identifying up-to-date and correct documentation. 
-This applies to *internal documentation* as well as to *external documentation* of software applications the users work with on a daily basis. 
+This not only applies to *internal documentation* but also to *external documentation* of software applications the users work with on a daily basis. 
 One example for this are modern PLM platforms such as Dassault Systèmes 3DEXPERIENCE. Even though PLM platforms are extremely powerful, 
 their documentation is very large and they often lack conversational or guided access to platform knowledge, leading to the following issues when searching for context:
 - Hundreds of search results for a single topic
@@ -43,7 +43,7 @@ their documentation is very large and they often lack conversational or guided a
 - Lack of conversational or guided access to platform knowledge
 
 This project was inspired by these challenges and explores how an agentic AI system 
-could support engineers by:
+could support engineers and other stakeholder to quickly access knowledge by:
 - Reasoning over documentation sources 
 - Iteratively refining answers using critique-based validation
 - Providing confidence-aware responses and safe fallbacks
@@ -69,9 +69,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
-
-## Further notes on running this agent: 
+**Further notes on running this agent:**
 
 - local_doc_search node
   
